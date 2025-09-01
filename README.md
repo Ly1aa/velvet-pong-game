@@ -1,7 +1,5 @@
 ## 🏓 Velvet Pong
 
-![Velvet Pong Logo](assets/game.png)
-
 An exciting and nostalgic pong game with a modern, velvet-themed twist. This web-based game offers smooth gameplay, adjustable difficulty settings, and a cool, retro aesthetic. Compete against the AI or challenge a friend to a fast-paced game of pong, with dynamic sound effects and smooth animations.
 
 ## Project Overview
@@ -113,3 +111,5 @@ If you find this project useful or fun, feel free to give it a ⭐️ on GitHub!
 * [Discord Account](https://discordapp.com/users/1069279857072160921)
 * [GitHub Repository](https://github.com/KaloudasDev/velvet-pong)
 * [License Information](https://en.wikipedia.org/wiki/MIT_License)
+
+![Velvet Pong Logo](assets/game.png)
