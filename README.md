@@ -110,6 +110,7 @@ If you find this project useful or fun, feel free to give it a ⭐️ on GitHub!
 * [Email Account](mailto:kaloudasdev@gmail.com)
 * [Discord Account](https://discordapp.com/users/1069279857072160921)
 * [GitHub Repository](https://github.com/KaloudasDev/velvet-pong)
-* [License Information](https://en.wikipedia.org/wiki/MIT_License)
+* [License Information](https://en.wikipedia.org/wiki/MIT_License)  
+
 
 ![Velvet Pong Logo](assets/game.png)
