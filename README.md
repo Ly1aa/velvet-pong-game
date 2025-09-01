@@ -112,5 +112,6 @@ If you find this project useful or fun, feel free to give it a ⭐️ on GitHub!
 * [GitHub Repository](https://github.com/KaloudasDev/velvet-pong)
 * [License Information](https://en.wikipedia.org/wiki/MIT_License)  
 
+<br>
 
 ![Velvet Pong Logo](assets/game.png)
