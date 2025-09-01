@@ -1,5 +1,7 @@
 ## 🏓 Velvet Pong
 
+![Velvet Pong Logo](assets/game.png)
+
 An exciting and nostalgic pong game with a modern, velvet-themed twist. This web-based game offers smooth gameplay, adjustable difficulty settings, and a cool, retro aesthetic. Compete against the AI or challenge a friend to a fast-paced game of pong, with dynamic sound effects and smooth animations.
 
 ## Project Overview
@@ -47,6 +49,8 @@ cd velvet-pong
 3. **Customize the game settings** by modifying the constants in `script.js` for paddle size, ball speed, and AI difficulty.
 
 4. (Optional) Replace the game background image or sound files for a personalized experience.
+
+5. Remove the Game image from the assets folder (game.png).
 
 ## Customization
 
